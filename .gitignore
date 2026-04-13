@@ -1,0 +1,13 @@
+# .NET
+server/**/bin/
+server/**/obj/
+server/**/*.user
+server/**/appsettings.Development.json
+
+# Next.js
+client/.next/
+client/node_modules/
+client/.env.local
+
+# General
+.DS_Store

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="OffboardIQ.API/OffboardIQ.API.csproj" />
+  <Project Path="OffboardIQ.Application/OffboardIQ.Application.csproj" />
+  <Project Path="OffboardIQ.Domain/OffboardIQ.Domain.csproj" />
+  <Project Path="OffboardIQ.Infrastructure/OffboardIQ.Infrastructure.csproj" />
+</Solution>
